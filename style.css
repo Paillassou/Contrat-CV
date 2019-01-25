@@ -1,0 +1,184 @@
+/*ENTETE DU CV*/
+
+img{
+margin: 20px;
+width: 110px;
+padding-left: 20px;
+}
+
+header{
+	display: flex;
+	color: white;
+	background-color: #2F4858;
+	height: 190px;
+	margin-top: -20px;
+}
+
+#Titre{
+	text-align: center;
+	padding-left: 200px;
+	margin-top: -170px;
+	line-height: 10px;
+	margin-left: 120px;
+}
+
+/*CORPS DU CV*/
+
+#Bas{
+	display: flex;
+}
+
+/*COLONNE GAUCHE*/
+
+#Gauche{
+	background-color: #86BBD8;
+	display: flex;
+	width: 320px;
+	border-top: 4px solid #9FE694;
+	border-bottom: 4px solid #9FE694;
+}
+.TitresG{
+	color: #3A5768;
+	font-weight: bold;
+}
+
+.BasG{
+	padding-bottom: 20px;
+}
+
+.HautG{
+
+	padding-top: 10px;
+}
+
+ul li{
+	list-style-type: none;
+	padding: 4px;
+	margin-left: -30px;
+}
+
+/*CORPS CENTRAL CV*/
+
+#TexteC{
+	padding-left: 20px;
+}
+
+#Centre{
+
+	margin-left: 4px;
+	line-height: 18px;
+	background-color: #FAF8F8;
+	width: 100%;
+}
+
+#TitreC{
+	text-align: center;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-left: 90px;
+	width: 550px;
+	font-size: 32px;
+	padding: 10px;
+}
+
+.MiniTitres{
+	font-size: 28px;
+	font-weight: bold;
+	margin-bottom:
+}
+
+.Infos{
+	font-style: italic;
+	font-size: 20px;
+
+}
+
+
+hr{
+	width: 300px;
+	background-color: #9FE694;
+	color: #9FE694;
+	float: left;
+	margin-top: -22px;
+	height: 3px;
+	border: none;
+
+}
+
+h1{
+	font-size: 20px;
+}
+
+h2{
+
+	font-size: 30px;
+	margin-top: 40px;
+}
+
+h3{
+	margin-top: 50px;
+	font-style: oblique;
+	font-weight: 100;
+}
+
+body{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+img{
+	padding-top: 3px;
+}
+
+/*FOOTER PERSO CV*/
+
+.Pied{
+
+	background-color: #2F4858;
+	display: flex;
+	height: 70px;
+}
+
+.Logo{
+	width: 30px;
+	height: 30px;
+}
+
+.Link{
+	display: flex;
+	color: white;
+
+}
+
+.FB{
+margin-left: 80px;
+	display: flex;
+	color: white;
+}
+
+img+p{
+	margin-top: 30px;
+	font-size:20px;
+}
+
+.Simplon{
+	margin-left: 100px;
+	display: flex;
+	color: white;
+	font-size: 20px;
+}
+
+.Logosimp{
+	margin-left: -20px;
+	margin-top: 15px;
+	width: 100px;
+	height: 33px;
+}
+
+#Sign{
+	margin-left: 40px;
+	margin-top: 28px;
+}
+
+
+/*GL & HF sur notre CV !!!*/
